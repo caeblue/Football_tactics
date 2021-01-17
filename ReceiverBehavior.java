@@ -1,6 +1,9 @@
 import java.util.Random;
 public class ReceiverBehavior implements OffenceBehavior
 {
+   /**
+     * a random int generator allows to randomize the play outcomes
+     */
     Random temp = new Random();
     public String play(){
 

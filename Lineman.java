@@ -12,10 +12,11 @@ public class Lineman extends Player{
     }
 
     Random temp = new Random();
-
+    int i=temp.nextInt(3);
+    
     public void setDefenceBehavior()
     {
-        int i=temp.nextInt(3);
+       
     
         if (i==0)
         {

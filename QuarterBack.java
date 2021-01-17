@@ -6,9 +6,9 @@ public class QuarterBack extends Player{
         super(name);
     }
     Random temp = new Random();
+    int i = temp.nextInt(5);
     public void setOffenceBehavior()
     {
-         int i=temp.nextInt(2);
     
           if (i==0)
           {

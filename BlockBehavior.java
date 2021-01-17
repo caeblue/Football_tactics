@@ -1,6 +1,9 @@
 import java.util.Random;
 public class BlockBehavior implements DefenceBehavior {
 
+    /**
+     * a random int generator allows to randomize the play outcomes, set for a 0-3 upper bound 
+     */
     Random temp = new Random();
     public String play(){
 
