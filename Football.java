@@ -1,7 +1,9 @@
 
 public class Football {
 	
-	public Football() {}
+	public Football() {
+		//required an explantion for being empty 
+	}
 	
 	public void play() {
 		Player[] players = new Player[3];
