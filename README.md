@@ -1,2 +1,2 @@
-# CSCE247_HW1
-hw assignment- football design strategy 
+#software Enginnering 274
+football design strategy 
